@@ -1,1 +1,2 @@
-git is all fucked up
+git is pretty fucked up
+but it's awesome though
